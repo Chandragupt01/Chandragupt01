@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chandragupt01 I'm a 1st year CSE Student at Chandigarh Univeristy. Iam a beginner level coder, looking forward to acquire new skills and get good at it.
+- 👋 Hi, I’m @Chandragupt01 . Iam a beginner level coder, looking forward to acquire new skills and get good at it.
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Python and Data Science
 
